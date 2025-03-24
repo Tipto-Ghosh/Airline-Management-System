@@ -1,0 +1,1 @@
+entities.Authority@876df88,Founder

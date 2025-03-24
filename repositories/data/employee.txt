@@ -1,0 +1,2 @@
+1234,abc,Email,012345,Male,20,Mirpur,3,abc,abc,Support,10000
+22,gg,gg@gmail.com,01234567890,Female,22,mirpur-10,2,22,22,Support Stuff,20000

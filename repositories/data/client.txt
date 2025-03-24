@@ -1,0 +1,4 @@
+00,aa,aa@gmail.com,01234567890,Male,20,mirpur,3,aa,1234,Premium
+9999,abc,999@gmail.com,0123456,Male,20,mirpur,1,abc,1111,Premium
+0000,Mr.Beast,beast@gmail.com,01234567890,Male,30,Mirpur,3,0000,0000,Premium
+12345,abc,abc@email,01234567890,Male,20,uttara,3,12345,12345,Premium
